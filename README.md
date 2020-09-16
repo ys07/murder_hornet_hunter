@@ -38,7 +38,6 @@
 
 | 설명                                                         | 사용한 라이브러리와 모듈들        | URL1                                                                                  |
 | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------------- |
-| Object Detections - Online Courses                           | 사용한 라이브러리와 모듈들        | URL1                                                                                  |
 | Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs   | OpenCV, SSD, GAN                  | https://www.udemy.com/share/1013Ka/                                                   |
 | Master Computer Vision™ OpenCV4 in Python with Deep Learning | OpenCV, Keras, TensorFlow & Caffe | https://www.udemy.com/share/101XPi/                                                   |
 | Training YOLO v3 for Objects Detection with Custom Data      | yolov3, darknet                   | https://www.udemy.com/course/training-yolo-v3-for-objects-detection-with-custom-data/ |
@@ -50,7 +49,7 @@
 
 | 설명                                                                                          | 사용한 라이브러리와 모듈들 | URL1                                                                                                               |
 | --------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Flower Recognition CNN Keras \| Kaggle                                                        | Keras CNN                  | https://www.kaggle.com/rajmehra03/flower-recognition-cnn-keras                                                     |
+| Flower Recognition CNN Keras in Kaggle                                                        | Keras CNN                  | https://www.kaggle.com/rajmehra03/flower-recognition-cnn-keras                                                     |
 | Species‐level image classification with CNN enables insect identification from habitus images | TensorFlow CNN             | https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5921                                                         |
 | Insect Identification & Classification Project                                                | PyTorch                    | https://www.kaggle.com/kmldas/starter-kernel-insect-identification                                                 |
 | Dog Breeds Classification                                                                     | Keras CNN, Xception        | https://github.com/floydhub/image-classification-template/blob/master/dog-breed-classification.ipynb               |
