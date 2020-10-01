@@ -1,8 +1,8 @@
-# Study in Yellow
+# Murder Hornet Hunter
 
 ## Goal of the project
 
-* To detect Asian Giant Hornet (aka Killer Hornets) from videos
+* To detect Asian Giant Hornet (aka Murder Hornets) from videos
 * Mobile-compatible tensorflow model file will be formed
 * In future, this is to automatically detect and alert beekeepers of Asian Giant Hornets
 
