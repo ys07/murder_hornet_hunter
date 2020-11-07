@@ -8,7 +8,7 @@
 | Bee Image Classification using a CNN and Keras        | keras                               | https://medium.com/@mahdis.pw/bee-image-classification-using-a-cnn-and-keras-5fd5ed90a37b |
 | Performance Comparison for Vespa Image Recognition    | AlexNet, VGG19, GoogLeNet, ResNet50 | https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09225716 |
 | Image Classification \| TensorFlow Lite               | TensorFlow Lite                     | https://www.tensorflow.org/lite/models/image_classification/overview |
-| Detecting Bees location on far range (video)          | tensorflow2, keras                  | https://github.com/matpalm/bnn                               |
+| Detecting Bees location on far range (`video)          | tensorflow2, keras                  | https://github.com/matpalm/bnn                               |
 | Count bees entering / leaving, Detect Pollens (video) | OpenCV2                             | https://github.com/Rastafouille/BeeDetection                 |
 | Detecting Bees on close range (video)                 | Yolov3                              | https://github.com/rdinizcal/bee_detection                   |
 | Detecting Wasp, Bee, Hornet (video)                   | yolo, darknet                       | https://github.com/JoeRu/bwh-detector                        |
@@ -52,4 +52,4 @@
 | Dog Breeds Classification                                    | Docker로 구분 모델 배포   | https://github.com/stormy-ua/dog-breeds-classification       |
 | Dog Breeds Identification Competition                        | PyTorch, TF, Keras  등... | https://www.kaggle.com/c/dog-breed-identification/notebooks  |
 | Daniel Burke's Dog Breeds Identification                     | tensorflow2... (공부 중)  | https://www.kaggle.com/mrdbourke/tensorflow-2-x-tensorflow-hub-end-to-end-example |
-| T 아카데미 딥러닝 영상분류/영상인식: 최대한 다양하게 다 해봄 | VGG16, ResNet, YOLO, SSD          | https://www.youtube.com/watch?v=gIa5Ztp5ViE&list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv |
+| T 아카데미 딥러닝 영상분류/영상인식: 최대한 다양하게 다 해봄 | VGG16, ResNet, YOLO, SSD          | https://www.youtube.com/watch?v=gIa5Ztp5ViE&list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbㅋn8esv |
